@@ -1,0 +1,3 @@
+= quarkus-with-mssql
+
+Sample project showing how to use quarkus with mssql
